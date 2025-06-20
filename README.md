@@ -1,4 +1,4 @@
-<table>
+<table style="width:100%;table-layout:fixed;border-collapse:collapse;">
 <tr>
 <td valign="top" width="33%" style="background-color:#2d3741;color:#fff;padding:20px;min-width:220px;">
 
@@ -20,6 +20,15 @@ Python<br>
   <li>Higher Certificate in Information Systems (Software Development)</li>
   <li>Calculus I</li>
   <li>Data Science and Machine Learning Bootcamp with R</li>
+</ul>
+<br>
+<span style="font-size:1.2em;"><b>Public Contributions</b></span><br>
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;">
+  <li><a href="https://github.com/j0r1/simpactcyan" style="color:#8ecae6;">SimpactCyan</a></li>
+  <li><a href="https://pypi.org/project/spatialedge-analytics-dfauditor/" style="color:#8ecae6;">spatialedge-analytics-dfauditor</a></li>
+  <li><a href="https://github.com/vacanza/holidays" style="color:#8ecae6;">holidays</a></li>
+  <li><a href="https://github.com/madmicio/LG-WebOS-Remote-Control" style="color:#8ecae6;">LG-WebOS-Remote-Control</a></li>
+  <li><a href="https://github.com/twigglits/MacbookPro14-2Ubuntu" style="color:#8ecae6;">MacbookPro14-2Ubuntu</a></li>
 </ul>
 
 </td>
@@ -61,6 +70,7 @@ Bachelor of Science in Information Technology<br>
   <li>C++</li>
   <li>C</li>
   <li>SQL</li>
+  <li>Big Query</li>
 </ul>
 </td><td style="vertical-align:top;padding:0;border:none;">
 <ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
@@ -93,6 +103,7 @@ Bachelor of Science in Information Technology<br>
   <li>Musical Theory</li>
 </ul>
 
+<br>
 </td>
 </tr>
 </table>
