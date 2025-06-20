@@ -32,7 +32,7 @@ Python<br>
 <span style="font-size:1.15em;"><b>Summary</b></span><br>
 I have done extensive work in the Machine Learning Engineering space, which I consider to be the intersection between Data Science and Machine Learning Operations.<br><br>
 I have 4 years of working experience developing, improving, and deploying machine learning models in production in the retail domain. I'm passionate about solving complex problems with a strong desire to get things done in as lean a way as possible<br><br>
-My strength lies in getting to production quickly with observable, usable results that facilitate business decision-making<br><br>
+My strength lies in getting to production quickly with observable, usable results that facilitate business decision-making.<br><br>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Experience</b></span><br>
