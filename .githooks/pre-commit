@@ -1,0 +1,18 @@
+#!/bin/bash
+# Pre-commit hook to automatically generate NAUDE_CV.pdf from README.md
+# and add it to the commit if README.md has changed.
+
+# Exit on error
+set -e
+
+# Only run if README.md exists
+if [ -f README.md ]; then
+  # Generate README.pdf from README.md
+  md-to-pdf README.md --stylesheet cv-pdf.css
+  # Rename to NAUDE_CV.pdf
+  mv README.pdf NAUDE_CV.pdf
+  # Add the PDF to the commit if it was generated
+  git add NAUDE_CV.pdf
+fi
+
+exit 0
