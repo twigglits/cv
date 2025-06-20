@@ -51,6 +51,48 @@ International Masters in Computer Science (Intelligent Systems), Machine Learnin
 Bachelor of Science in Information Technology<br>
 <span style="color:#a1a1a1;">2015 - 2018</span>
 
+<br><br>
+<span style="font-size:1.15em;"><b>Tech Stack</b></span><br>
+<table style="display:inline-table;width:auto;border:none;"><tr><td style="vertical-align:top;padding:0 30px 0 0;border:none;">
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
+  <li>Python</li>
+  <li>Pytorch</li>
+  <li>Scikit Learn</li>
+  <li>C++</li>
+  <li>C</li>
+  <li>SQL</li>
+</ul>
+</td><td style="vertical-align:top;padding:0;border:none;">
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
+  <li>Bash</li>
+  <li>Git</li>
+  <li>Docker</li>
+  <li>CI/CD</li>
+  <li>GCP</li>
+  <li>Airflow</li>
+</ul>
+</td><td style="vertical-align:top;padding:0 0 0 30px;border:none;">
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
+  <li>Kubernetes</li>
+  <li>Terraform</li>
+  <li>Helm</li>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>Redis DB</li>
+  <li>Tensorflow</li>
+  <li>Gitlab</li>
+  <li>Linux</li>
+</ul>
+</td></tr></table>
+<br>
+<span style="font-size:1.15em;"><b>Interests</b></span><br>
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;">
+  <li>Epidemiology</li>
+  <li>Computer Vision</li>
+  <li>Puzzle Games</li>
+  <li>Musical Theory</li>
+</ul>
+
 </td>
 </tr>
 </table>
