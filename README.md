@@ -15,11 +15,13 @@ Machine Learning<br>
 Python<br>
 <br>
 <span style="font-size:1.2em;"><b>Certifications</b></span><br>
-Time Series Analysis, Forecasting, and Machine Learning<br>
-Python for Data Science and Machine Learning Bootcamp<br>
-Higher Certificate in Information Systems (Software Development)<br>
-Calculus I<br>
-Data Science and Machine Learning Bootcamp with R<br>
+<ul style="margin-top:0;margin-bottom:0;padding-left:20px;">
+  <li>Time Series Analysis, Forecasting, and Machine Learning</li>
+  <li>Python for Data Science and Machine Learning Bootcamp</li>
+  <li>Higher Certificate in Information Systems (Software Development)</li>
+  <li>Calculus I</li>
+  <li>Data Science and Machine Learning Bootcamp with R</li>
+</ul>
 
 </td>
 <td valign="top" width="67%" style="padding:20px;">
