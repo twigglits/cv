@@ -24,6 +24,7 @@ Python<br>
 <br>
 <span style="font-size:1.2em;"><b>Public Contributions</b></span><br>
 <ul style="margin-top:0;margin-bottom:0;padding-left:20px;">
+  <li><a href="https://github.com/twigglits/viss" style="color:#8ecae6;">viss</a></li>
   <li><a href="https://github.com/j0r1/simpactcyan" style="color:#8ecae6;">SimpactCyan</a></li>
   <li><a href="https://pypi.org/project/spatialedge-analytics-dfauditor/" style="color:#8ecae6;">spatialedge-analytics-dfauditor</a></li>
   <li><a href="https://github.com/vacanza/holidays" style="color:#8ecae6;">holidays</a></li>
