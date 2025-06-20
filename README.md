@@ -60,7 +60,8 @@ International Masters in Computer Science (Intelligent Systems), Machine Learnin
 Bachelor of Science in Information Technology<br>
 <span style="color:#a1a1a1;">2015 - 2018</span>
 
-<br><br>
+<hr style="border:0;border-top:1px solid #e0e0e0;">
+<br>
 <span style="font-size:1.15em;"><b>Tech Stack</b></span><br>
 <table style="display:inline-table;width:auto;border:none;"><tr><td style="vertical-align:top;padding:0 30px 0 0;border:none;">
 <ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
