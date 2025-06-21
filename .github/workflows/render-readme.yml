@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CV_TOKEN }}
 
       - name: Create docs directory and copy README.md
         run: |
@@ -27,3 +29,5 @@ jobs:
             git commit -m 'Update docs/index.md from README.md [skip ci]'
             git push
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.CV_TOKEN }}
