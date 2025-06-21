@@ -3,7 +3,6 @@
 <td valign="top" width="33%" style="background-color:#2d3741;color:#fff;padding:20px;min-width:220px;">
 
 <span style="font-size:1.2em;"><b>Contact</b></span><br>
-<a href="tel:+27764946068" style="color:#8ecae6;">+27 76 494 6068</a><br>
 <a href="mailto:jnaude60512@gmail.com" style="color:#8ecae6;">jnaude60512@gmail.com</a><br>
 <a href="https://www.linkedin.com/in/jean-naude" style="color:#8ecae6;">LinkedIn</a><br>
 <a href="https://github.com/twigglits" style="color:#8ecae6;">GitHub</a><br>
