@@ -1,0 +1,29 @@
+name: Render README as GitHub Page
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create docs directory and copy README.md
+        run: |
+          mkdir -p docs
+          cp README.md docs/index.md
+
+      - name: Commit and push changes to docs
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/index.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m 'Update docs/index.md from README.md [skip ci]'
+            git push
+          fi
