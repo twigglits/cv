@@ -1,4 +1,4 @@
-name: Render README as GitHub Page
+name: Render README CV as GitHub Page
 
 on:
   push:
