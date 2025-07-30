@@ -44,12 +44,12 @@ Senior Technical Lead as a Machine Learning Engineer with 5 years of experience 
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Experience</b></span><br>
-<b>Spatialedge (Pty) Ltd</b><br>
+<b>Spatialedge</b><br>
 <span style="color:#3d5a80;">Machine Learning Engineer</span><br>
 <span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span><br>
 <span style="color:#a1a1a1;">June 2021 - Present (4+ years)</span><br>
 
-<b>Exile AI (Pty) Ltd</b><br>
+<b>Exile AI</b><br>
 <span style="color:#3d5a80;">Full-Stack Engineer</span><br>
 <span style="color:#a1a1a1;">Cape Town, Western Cape, South Africa</span><br>
 <span style="color:#a1a1a1;">January 2024 - Present (1+ years)</span><br>
