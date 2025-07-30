@@ -39,16 +39,20 @@ Python<br>
 <span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span>
 <br><br>
 <span style="font-size:1.15em;"><b>Summary</b></span><br>
-I have done extensive work in the Machine Learning Engineering space, which I consider to be the intersection between Data Science and Machine Learning Operations.<br><br>
-I have 4 years of working experience developing, improving, and deploying machine learning models in production in the retail domain. I'm passionate about solving complex problems with a strong desire to get things done in as lean a way as possible.<br><br>
-My strength lies in getting to production quickly with observable, usable results that facilitate business decision-making.<br><br>
+Senior Technical Lead as a Machine Learning Engineer with 5 years of experience in developing, deploying and optimizing machine learning models and taking them to production for large retail chains based in South Africa. Co-Founder of a non-profit that played a key role in developing open-source software for an international epidemiology simulation project that provided valuable insights to the World Health Organization.<br>
+<br>My strength lies in getting to production quickly with observable, impactful results that facilitate business decision-making.<br><br>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Experience</b></span><br>
 <b>Spatialedge (Pty) Ltd</b><br>
 <span style="color:#3d5a80;">Machine Learning Engineer</span><br>
-June 2021 - Present (4 years 1 month)<br>
-<span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span>
+<span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span><br>
+<span style="color:#a1a1a1;">June 2021 - Present (4+ years)</span><br>
+
+<b>Exile AI (Pty) Ltd</b><br>
+<span style="color:#3d5a80;">Full-Stack Engineer</span><br>
+<span style="color:#a1a1a1;">Cape Town, Western Cape, South Africa</span><br>
+<span style="color:#a1a1a1;">January 2024 - Present (1+ years)</span><br>
 <br><br>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
@@ -69,6 +73,7 @@ Bachelor of Science in Information Technology<br>
   <li>Pytorch</li>
   <li>Scikit Learn</li>
   <li>C++</li>
+  <li>CUDA</li>
   <li>C</li>
   <li>SQL</li>
   <li>Big Query</li>
@@ -81,6 +86,7 @@ Bachelor of Science in Information Technology<br>
   <li>CI/CD</li>
   <li>GCP</li>
   <li>Airflow</li>
+  <li>Dagster</li>
 </ul>
 </td><td style="vertical-align:top;padding:0 0 0 30px;border:none;">
 <ul style="margin-top:0;margin-bottom:0;padding-left:20px;list-style-type:disc;">
