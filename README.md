@@ -52,22 +52,23 @@ Python<br>
 <div style="text-align: justify;">Technical Lead Engineer on two enterprise data applications that provided highly optimized results  in the retail and financial sector. Mentored junior engineers, provided technical guidance and engineered technical foundation for both projects
 <br>
 Productionized and contributed to 8 Machine Learning models providing high-value insights to the retail and financial sector
-</div>
+
 <br>Models: Lead Time Forecasting, Demand Forecasting, Interbranch Transfers Optimimization
 <br>Apps: Workforce Planning Optimization, Cash Replenishment Forecasting and Optimization
 <br>Frontends: React, TypeScript, CSS, GrapQL
 <br>Backends: Ruby, Postgres
 <br>DevOps: CI/CD, Gitlab, GCP, Terraform
-</span>
-<br><br>
+</div>
+<br>
 <b>Exile AI</b><br>
 <span style="color:#3d5a80;">(Founder) Full-Stack Engineer</span><br>
 <span style="color:#a1a1a1;">Cape Town, Western Cape, South Africa</span><br>
 <span style="color:#a1a1a1;">January 2024 - Present (1+ years)</span><br>
 <br>
-<div style="text-align: justify;">Engineered the first open source Viral Infection Simulation Subsystem (VISS) that provided valuable insights to the World Health Organization. Established roadmaps for 4 new open source projects that hold potential to significantly contribute to improved health and economic outcomes. Modularized both front-end and back-end. Back-end is open source and open to contributions. Developed technical infrastructure for a large non profit medical clinic</div>
-<br>Backend :Redis DB, C++, Crow(API), CUDA
-<br>Frontend :React, TypeScript, CSS Tailwind
+<div style="text-align: justify;">Engineered the first open source Viral Infection Simulation Subsystem (VISS) that provided valuable insights to the World Health Organization. Established roadmaps for 4 new open source projects that hold potential to significantly contribute to improved health and economic outcomes. Modularized both front-end and back-end. Back-end is open source and open to contributions. Developed technical infrastructure for a large non profit medical clinic
+<br>Backend: Redis DB, C++, Crow(API), CUDA
+<br>Frontend: React, TypeScript, CSS Tailwind
+</div>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Education</b></span><br>
