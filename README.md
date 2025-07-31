@@ -35,12 +35,13 @@ Python<br>
 <td valign="top" width="67%" style="padding:20px;">
 
 <span style="font-size:2.2em;font-weight:bold;color:#222;">Jean Naude</span><br>
-<span style="font-size:1.2em;color:#3d5a80;">Machine Learning Engineer at Spatialedge (Pty) Ltd</span><br>
+<span style="font-size:1.2em;color:#3d5a80;">Machine Learning Engineer at Spatialedge</span><br>
 <span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span>
 <br><br>
 <span style="font-size:1.15em;"><b>Summary</b></span><br>
-Senior Technical Lead as a Machine Learning Engineer with 5 years of experience in developing, deploying and optimizing machine learning models and taking them to production for large retail chains based in South Africa. Co-Founder of a non-profit that played a key role in developing open-source software for an international epidemiology simulation project that provided valuable insights to the World Health Organization.<br>
-<br>My strength lies in getting to production quickly with observable, impactful results that facilitate business decision-making.<br><br>
+<div style="text-align: justify;">Senior Machine Learning Engineer with 5 years of experience in developing, deploying and optimizing machine learning models and taking them to production for large retail chains based in South Africa. Co-Founder of a non-profit that played a key role in developing open-source software for an international epidemiology simulation project that provided valuable insights to the World Health Organization<br>
+<br>My strength lies in getting to production quickly with observable, impactful results that facilitate business decision-making<br><br>
+</div>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Experience</b></span><br>
@@ -48,17 +49,30 @@ Senior Technical Lead as a Machine Learning Engineer with 5 years of experience 
 <span style="color:#3d5a80;">Machine Learning Engineer</span><br>
 <span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span><br>
 <span style="color:#a1a1a1;">June 2021 - Present (4+ years)</span><br>
-
+<div style="text-align: justify;">Technical Lead Engineer on two enterprise data applications that provided highly optimized results  in the retail and financial sector. Mentored junior engineers, provided technical guidance and engineered technical foundation for both projects
+<br>
+Productionized and contributed to 8 Machine Learning models providing high-value insights to the retail and financial sector
+</div>
+<br>Models: Lead Time Forecasting, Demand Forecasting, Interbranch Transfers Optimimization
+<br>Apps: Workforce Planning Optimization, Cash Replenishment Forecasting and Optimization
+<br>Frontends: React, TypeScript, CSS, GrapQL
+<br>Backends: Ruby, Postgres
+<br>DevOps: CI/CD, Gitlab, GCP, Terraform
+</span>
+<br><br>
 <b>Exile AI</b><br>
-<span style="color:#3d5a80;">Full-Stack Engineer</span><br>
+<span style="color:#3d5a80;">(Founder) Full-Stack Engineer</span><br>
 <span style="color:#a1a1a1;">Cape Town, Western Cape, South Africa</span><br>
 <span style="color:#a1a1a1;">January 2024 - Present (1+ years)</span><br>
-<br><br>
+<br>
+<div style="text-align: justify;">Engineered the first open source Viral Infection Simulation Subsystem (VISS) that provided valuable insights to the World Health Organization. Established roadmaps for 4 new open source projects that hold potential to significantly contribute to improved health and economic outcomes. Modularized both front-end and back-end. Back-end is open source and open to contributions. Developed technical infrastructure for a large non profit medical clinic</div>
+<br>Backend :Redis DB, C++, Crow(API), CUDA
+<br>Frontend :React, TypeScript, CSS Tailwind
 <hr style="border:0;border-top:1px solid #e0e0e0;">
 
 <span style="font-size:1.15em;"><b>Education</b></span><br>
 <b>ESIEE PARIS</b><br>
-International Masters in Computer Science (Intelligent Systems), Machine Learning<br>
+International Masters in Computer Science<br>
 <span style="color:#a1a1a1;">2019 - 2021</span><br><br>
 <b>Pearson Institute</b><br>
 Bachelor of Science in Information Technology<br>
@@ -106,8 +120,11 @@ Bachelor of Science in Information Technology<br>
 <ul style="margin-top:0;margin-bottom:0;padding-left:20px;">
   <li>Epidemiology</li>
   <li>Computer Vision</li>
+  <li>3D Printing</li>
+  <li>Home Automation ( using HomeAssistant )</li>
   <li>Puzzle Games</li>
   <li>Musical Theory</li>
+
 </ul>
 
 <br>
