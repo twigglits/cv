@@ -39,7 +39,7 @@ Python<br>
 <span style="color:#a1a1a1;">Stellenbosch, Western Cape, South Africa</span>
 <br><br>
 <span style="font-size:1.15em;"><b>Summary</b></span><br>
-<div style="text-align: justify;">Senior Machine Learning Engineer with 5 years of experience in developing, deploying and optimizing machine learning models and taking them to production for large retail chains based in South Africa. Co-Founder of a non-profit that played a key role in developing open-source software for an international epidemiology simulation project that provided valuable insights to the World Health Organization<br>
+<div style="text-align: justify;">Senior Machine Learning Engineer with 4 years of experience in developing, deploying and optimizing machine learning models and taking them to production for large retail chains based in South Africa. Co-Founder of a non-profit that played a key role in developing open-source software for an international epidemiology simulation project that provided valuable insights to the World Health Organization<br>
 <br>My strength lies in getting to production quickly with observable, impactful results that facilitate business decision-making<br><br>
 </div>
 <hr style="border:0;border-top:1px solid #e0e0e0;">
