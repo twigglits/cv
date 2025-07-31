@@ -1,6 +1,6 @@
-<table style="width:100%;table-layout:fixed;border-collapse:collapse;">
+<table style="width:100%;table-layout:fixed;border-collapse:collapse;margin-left:0;">
 <tr>
-<td valign="top" width="33%" style="background-color:#2d3741;color:#fff;padding:20px;min-width:220px;">
+<td valign="top" width="20%" style="background-color:#2d3741;color:#fff;padding:20px 20px 20px 0;min-width:220px;">
 
 <span style="font-size:1.2em;"><b>Contact</b></span><br>
 <a href="mailto:jnaude60512@gmail.com" style="color:#8ecae6;">jnaude60512@gmail.com</a><br>
@@ -32,7 +32,7 @@ Python<br>
 </ul>
 
 </td>
-<td valign="top" width="67%" style="padding:20px;">
+<td valign="top" width="80%" style="padding:20px;">
 
 <span style="font-size:2.2em;font-weight:bold;color:#222;">Jean Naude</span><br>
 <span style="font-size:1.2em;color:#3d5a80;">Machine Learning Engineer at Spatialedge</span><br>
