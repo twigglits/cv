@@ -1,5 +1,6 @@
 @page {
-  margin: 0;
+  /* Add printable margins to prevent cutoff */
+  margin: 18mm 15mm;
 }
 
 html, body {
@@ -16,6 +17,127 @@ table {
 }
 td {
   vertical-align: top;
+}
+
+/* Typography and base layout */
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #222;
+  line-height: 1.38;
+  font-size: 11.8px;
+  /* Reduce padding since @page adds margins */
+  padding: 0;
+}
+
+/* Centered header block from README */
+div[align="center"] h1 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  font-variant: small-caps;
+}
+
+div[align="center"] .contact {
+  margin-top: 6px;
+  color: #333;
+  font-size: 12px;
+  /* Ensure contact line wraps instead of overflowing */
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Underline only the URL segments, not separators */
+div[align="center"] .contact .contact-link {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Horizontal rules as subtle separators */
+hr {
+  border: 0;
+  border-top: 1px solid #8a8a8a;
+  margin: 10px 0 8px;
+}
+
+/* Section headings */
+h2 {
+  margin: 0 0 6px 0;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  font-variant: small-caps;
+}
+
+strong { font-weight: 700; }
+
+/* Markdown table used for Experience header line */
+table, thead, tbody, tr, th, td {
+  border: 0 !important;
+}
+
+table thead tr th {
+  padding: 0;
+  font-weight: 700; /* bold like resume */
+}
+
+/* Two columns: role/company left, dates right */
+table thead tr th:first-child,
+table tbody tr td:first-child {
+  width: 70%;
+  text-align: left;
+}
+
+table thead tr th:last-child,
+table tbody tr td:last-child {
+  width: 30%;
+  text-align: right;
+}
+
+/* Tighten paragraph spacing for dash-led lines */
+p {
+  margin: 4px 0;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Links remain plain text; ensure no color change if auto-detected */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Make sure table content wraps within columns */
+table thead tr th,
+table tbody tr td {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Justified content blocks */
+.justify {
+  text-align: justify;
+}
+
+ul.justify {
+  margin: 6px 0 0 0; /* compact spacing */
+  padding: 0;
+  list-style: none; /* remove default bullets */
+}
+
+ul.justify li {
+  margin: 2px 0;
+  position: relative;
+  padding-left: 14px; /* space for dash */
+}
+
+/* En-dash style bullets to mimic resume */
+ul.justify li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 
