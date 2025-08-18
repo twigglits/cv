@@ -83,3 +83,15 @@
   <li>Implemented automated testing framework ensuring data integrity across multiple client projects</li>
   <li>Published Python package to PyPI for broader community use in data science workflows</li>
 </ul>
+
+<hr/>
+
+<h2>CERTIFICATIONS</h2>
+<div><strong>Python for Data Science and Machine Learning Bootcamp — 2025</strong></div>
+<div class="justify">https://www.udemy.com/certificate/UC-1fcc8e47-b153-45b2-b43b-7c117e1fd2db/</div>
+<div><strong>Time Series Analysis, Forecasting and Machine Learning — 2025</strong></div>
+<div class="justify">https://www.udemy.com/certificate/UC-a567a1fa-c83a-43d9-82ff-df5cdacb4d5e/</div>
+<div><strong>Data Science and Machine Learning Bootcamp with R — 2019</strong></div>
+<div class="justify">https://www.udemy.com/certificate/UC-65MDQ02B/</div>
+<div><strong>Calculus 1 — 2019</strong></div>
+<div class="justify">https://www.udemy.com/certificate/UC-37U23IL1/</div>
