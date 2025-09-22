@@ -7,9 +7,8 @@
 
 <h2>SUMMARY</h2>
 <div class="justify">
-  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for major retail and financial clients. Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization. My strength is rapidly deploying observable, impactful models that drive key business decisions.
+  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for a major retailer. Former Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization.<br> My strength lies in rapidly deploying observable, impactful models that drive key business decisions in their organizations. I enjoy taking on difficult problems and developing solutions at a rapid pace whilst maintaining measurable and observable improvement in automation, optimization and model accuracy.<br>I enjoy working with hardworking people who want to get results fast, can communicate effectively, and are open to feedback so that decisions can be made and improvements can be implemented.
  </div>
-
 <hr/>
 
 <h2>EXPERIENCE</h2>
@@ -24,8 +23,9 @@
 <ul class="justify" style="margin-top:4px;">
   <li>Served as Technical Lead Engineer on two enterprise data applications providing optimized results in retail and financial sectors</li>
   <li>Mentored junior engineers and provided technical guidance while engineering the technical foundation for both projects</li>
-  <li>Productionized and contributed to 8 machine learning models including Lead Time Forecasting, Demand Forecasting, and Interbranch Transfers Optimization</li>
-  <li>Developed Workforce Planning Optimization and Cash Replenishment Forecasting applications using React, TypeScript, GraphQL frontends with Ruby/PostgreSQL backends</li>
+  <li>Productionized and contributed to 8 machine learning models including Lead Time Forecasting, Demand Forecasting, and Interbranch Transfers Optimization in the Retail sector</li>
+  <li>Contributed development to various credit scoring models in the Financial sector, and mentored junior engineers on software engineering best practices at a trading platform company</li>
+  <li>Developed Workforce Planning Optimization and Cash Replenishment Forecasting enterprise-grade data applications</li>
   <li>Implemented CI/CD pipelines using GitLab and GCP with Terraform for infrastructure automation</li>
  </ul>
 
@@ -39,7 +39,7 @@
   <strong>ML &amp; Data Science:</strong> PyTorch, Scikit-Learn, TensorFlow, Time Series Forecasting, Machine Learning, Computer Vision
 </div>
 <div class="justify">
-  <strong>Infrastructure &amp; DevOps:</strong> GCP, Docker, Kubernetes, Terraform, CI/CD, Airflow, Dagster, Helm, Git, Linux
+  <strong>Infrastructure &amp; DevOps:</strong> GCP, Azure, Docker, Kubernetes, Terraform, CI/CD, Airflow, Dagster, Helm, Git, Linux
 </div>
 <div class="justify">
   <strong>Databases &amp; Systems:</strong> PostgreSQL, BigQuery, Redis, CUDA, GraphQL, Crow API
