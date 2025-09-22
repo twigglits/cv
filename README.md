@@ -24,7 +24,7 @@
   <li>Served as Technical Lead Engineer on two enterprise data applications providing optimized results in retail and financial sectors</li>
   <li>Mentored junior engineers and provided technical guidance while engineering the technical foundation for both projects</li>
   <li>Productionized and contributed to 8 machine learning models including Lead Time Forecasting, Demand Forecasting, and Interbranch Transfers Optimization in the Retail sector</li>
-  <li>Contributed development to various credit scoring models in the Financial sector, and mentored junior engineers on software engineering</li>
+  <li>Contributed development to various credit scoring models in the Financial sector, and mentored junior engineers on software engineering best practices and approaches</li>
   <li>Developed Workforce Planning Optimization and Cash Replenishment Forecasting enterprise-grade data applications</li>
   <li>Implemented CI/CD pipelines using GitLab and GCP with Terraform for infrastructure automation</li>
  </ul>
