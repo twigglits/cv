@@ -7,7 +7,7 @@
 
 <h2>SUMMARY</h2>
 <div class="justify">
-  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for a major retailer. Former Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization.<br> My strength lies in rapidly deploying observable, impactful models that drive key business decisions in their organizations. I enjoy taking on difficult problems and developing solutions at a rapid pace whilst maintaining measurable and observable improvement in automation, optimization and model accuracy.<br>I enjoy working with hardworking people who want to get results fast, can communicate effectively, and are open to feedback so that decisions can be made and improvements can be implemented.
+  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for a major retailer. Former Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization.<br> My strength lies in rapidly deploying observable, impactful models that drive key business decisions in their organizations. I enjoy taking on difficult problems and developing solutions at a rapid pace whilst maintaining measurable and observable improvement in automation, optimization and model accuracy. I enjoy working with hardworking people who want to get results fast, can communicate effectively, and are open to feedback so that decisions can be made and improvements can be implemented.
  </div>
 <hr/>
 
