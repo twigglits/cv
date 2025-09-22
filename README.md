@@ -52,7 +52,7 @@
   <thead>
     <tr>
       <th>ESIEE PARIS — Master’s of Science in Computer Science</th>
-      <th>2021</th>
+      <th>2019-2021</th>
     </tr>
   </thead>
 </table>
@@ -60,7 +60,7 @@
   <thead>
     <tr>
       <th>Pearson Institute — Bachelor’s of Science in Information Technology</th>
-      <th>2018</th>
+      <th>2015-2018</th>
     </tr>
   </thead>
 </table>
