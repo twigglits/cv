@@ -24,7 +24,7 @@
   <li>Served as Technical Lead Engineer on two enterprise data applications providing optimized results in retail and financial sectors</li>
   <li>Mentored junior engineers and provided technical guidance while engineering the technical foundation for both projects</li>
   <li>Productionized and contributed to 8 machine learning models including Lead Time Forecasting, Demand Forecasting, and Interbranch Transfers Optimization in the Retail sector</li>
-  <li>Contributed development to various credit scoring models in the Financial sector, and mentored junior engineers on software engineering best practices at a trading platform company</li>
+  <li>Contributed development to various credit scoring models in the Financial sector, and mentored junior engineers on software engineering</li>
   <li>Developed Workforce Planning Optimization and Cash Replenishment Forecasting enterprise-grade data applications</li>
   <li>Implemented CI/CD pipelines using GitLab and GCP with Terraform for infrastructure automation</li>
  </ul>
@@ -80,7 +80,6 @@
 <div class="justify">pypi.org/project/spatialedge-analytics-dfauditor</div>
 <ul class="justify" style="margin-top:4px;">
   <li>Created DataFrame auditing and validation tools for machine learning pipeline quality assurance</li>
-  <li>Implemented automated testing framework ensuring data integrity across multiple client projects</li>
   <li>Published Python package to PyPI for broader community use in data science workflows</li>
 </ul>
 
