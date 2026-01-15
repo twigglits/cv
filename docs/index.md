@@ -92,5 +92,7 @@
 <div class="justify">https://www.udemy.com/certificate/UC-a567a1fa-c83a-43d9-82ff-df5cdacb4d5e/</div>
 <div><strong>Data Science and Machine Learning Bootcamp with R — 2019</strong></div>
 <div class="justify">https://www.udemy.com/certificate/UC-65MDQ02B/</div>
+<div><strong>React - The Complete Guide 2025 (incl. Next.js, Redux) — 2024</strong></div>
+<div class="justify">https://www.udemy.com/certificate/UC-acdec4cd-ae82-4216-9cd3-212d2e0a63ee/</div>
 <div><strong>Calculus 1 — 2019</strong></div>
 <div class="justify">https://www.udemy.com/certificate/UC-37U23IL1/</div>
