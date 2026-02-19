@@ -8,7 +8,7 @@ set -e
 # Only run if README.md exists
 if [ -f README.md ]; then
   # Generate README.pdf from README.md
-  md-to-pdf README.md --stylesheet cv-pdf.css
+  md-to-pdf README.md --stylesheet cv-pdf.css --launch-options '{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
   # Rename to NAUDE_CV.pdf
   mv README.pdf NAUDE_CV.pdf
   # Add the PDF to the commit if it was generated
