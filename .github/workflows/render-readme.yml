@@ -13,20 +13,33 @@ jobs:
         with:
           token: ${{ secrets.CV_TOKEN }}
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Generate PDF from README.md
+        run: |
+          md-to-pdf README.md --stylesheet cv-pdf.css --launch-options '{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
+          mv README.pdf NAUDE_CV.pdf
+
       - name: Create docs directory and copy README.md
         run: |
           mkdir -p docs
           cp README.md docs/index.md
 
-      - name: Commit and push changes to docs
+      - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/index.md
+          git add docs/index.md NAUDE_CV.pdf
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m 'Update docs/index.md from README.md [skip ci]'
+            git commit -m 'Update docs/index.md and NAUDE_CV.pdf from README.md [skip ci]'
             git push
           fi
         env:
