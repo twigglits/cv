@@ -7,7 +7,7 @@
 
 <h2>SUMMARY</h2>
 <div class="justify">
-  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for a major retailer. Former Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization.<br> My strength lies in rapidly deploying observable, impactful models that drive key business decisions in their organizations. I enjoy taking on difficult problems and developing solutions at a rapid pace whilst maintaining measurable and observable improvement in automation, optimization and model accuracy. I enjoy working with hardworking people who want to get results fast, can communicate effectively, and are open to feedback so that decisions can be made and improvements can be implemented.<br><br> Strong hands-on MLOps experience: designing GitLab CI/CD pipelines with clear build/test/deploy/release stages and integrated vulnerability scanning (dependencies, containers, and IaC), implemented automated retraining and deployment pipelines, and monitoring on Grafana/cloud monitoring for data drift with structured logging, alerting, and model explainability/score attribution using SHAP (Shapley values). Experienced in deploying and scaling Kubernetes clusters, and selecting pragmatic serving patterns on GCP (Cloud Run/Vertex AI/Pub Sub) depending on latency, cost, and operational overhead.
+  Senior Machine Learning Engineer with 4 years of experience delivering production-level ML models for a major retailer. Former Co-founder of a non-profit that developed open-source epidemiology simulation software used by the World Health Organization.<br> My strength lies in rapidly deploying observable, impactful models that drive key business decisions in their organizations. I enjoy taking on difficult problems and developing solutions at a rapid pace whilst maintaining measurable and observable improvement in automation, optimization and model accuracy. I enjoy working with hardworking people who want to get results fast, can communicate effectively, and are open to feedback so that decisions can be made and improvements can be implemented.<br><br> Strong hands-on MLOps experience: designing GitLab CI/CD pipelines with clear build/test/deploy/release stages and integrated vulnerability scanning (dependencies, containers, and IaC), implemented automated retraining and deployment pipelines, and monitoring on Grafana/cloud monitoring for data drift with structured logging, alerting, and model explainability/score attribution using SHAP (Shapley values). Experienced in deploying and scaling Kubernetes clusters, and selecting pragmatic serving patterns on GCP (Cloud Run/Vertex AI/Pub Sub) and AWS (Bedrock/Sagemaker) depending on latency, cost, and operational overhead.
  </div>
 <hr/>
 
@@ -22,7 +22,7 @@
 </table>
 <ul class="justify" style="margin-top:4px;">
   <li>Served as Technical Lead Engineer on two enterprise data applications providing optimized results in retail and financial sectors</li>
-  <li>Mentored junior engineers and provided technical guidance while engineering the technical foundation for both projects</li>
+  <li>Mentored junior engineers and provided technical guidance to engineering teams while directing project execution and establishing the technical foundation for both projects</li>
   <li>Productionized and contributed to 8 machine learning models including Lead Time Forecasting, Demand Forecasting, and Interbranch Transfers Optimization in the Retail sector. And ATM replenishment forecasting and optimization in the Financial Sector</li>
   <li>Contributed development to various credit scoring models in the Financial sector, and mentored 5 junior engineers on software engineering best practices and approaches</li>
   <li>Developed Workforce Planning Optimization and Cash Replenishment Forecasting enterprise-grade data applications</li>
@@ -32,6 +32,9 @@
 <hr/>
 
 <h2>SKILLS</h2>
+<div class="justify">
+  <strong>Tools:</strong> Claude Code, MCP tool setup, agent orchestration, testing frameworks, playwright, Claude Code agent orchestration pipelines, Branching development AGI workflows 
+</div>
 <div class="justify">
   <strong>Languages &amp; Frameworks:</strong> Python, C++, SQL, JavaScript, TypeScript, Ruby, Bash, C
 </div>
