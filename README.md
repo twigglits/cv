@@ -33,7 +33,7 @@
 
 <h2>SKILLS</h2>
 <div class="justify">
-  <strong>Tools:</strong> Claude Code, MCP tool setup, agent orchestration, testing frameworks, playwright, Claude Code agent orchestration pipelines, Branching development AGI workflows 
+  <strong>Tools:</strong> Claude Code, MCP tool setup, agent orchestration, testing frameworks, playwright, Claude Code agent orchestration pipelines, Generative AI workflows and orchestration
 </div>
 <div class="justify">
   <strong>Languages &amp; Frameworks:</strong> Python, C++, SQL, JavaScript, TypeScript, Ruby, Bash, C
