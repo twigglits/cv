@@ -12,7 +12,8 @@
   
   <br> Strong hands-on MLOps experience: designing GitLab CI/CD pipelines with clear build/test/deploy/release stages and integrated vulnerability scanning (dependencies, containers, and IaC), implemented automated retraining and deployment pipelines, and monitoring on Grafana/cloud monitoring for data drift with structured logging, alerting, and model explainability/score attribution using SHAP (Shapley values). Experienced in deploying and scaling Kubernetes clusters, and selecting pragmatic serving patterns on GCP (Cloud Run/Vertex AI/Pub Sub) and AWS (Bedrock/Sagemaker) depending on latency, cost, and operational overhead.
   <br>
-  In other words, I get shit done!
+  <br> I have ample experience working with Databricks. I have setup a claims submission pipeline in databricks that automated the flagging of fraudulent claims as well as the processing and extraction of relevant fields for a large Vehicle Insrurance company.<br>
+  <br> In other words, I get shit done!
   </br>
  </div>
 <hr/>
