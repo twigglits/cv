@@ -14,7 +14,6 @@
   <br>
   <br> I have ample experience working with Databricks. I have setup a claims submission pipeline in databricks that automated the flagging of fraudulent claims as well as the processing and extraction of relevant fields for a large vehicle insurance company.<br>
   <br> In other words, I get shit done!
-  </br>
  </div>
 <hr/>
 
