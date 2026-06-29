@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Jean Naude</h1>
-  <div class="contact"><span class="contact-link">jnaude60512@gmail.com</span> | <span class="contact-link">https://linkedin.com/in/jean-naude/</span> | <span class="contact-link">https://github.com/twigglits</span></div>
+  <div class="contact"><span class="contact-link">jnaude60512@gmail.com</span> | <span class="contact-link">https://jeannaude.dev</span> | <span class="contact-link">https://linkedin.com/in/jean-naude/</span> | <span class="contact-link">https://github.com/twigglits</span></div>
 </div>
 
 <hr/>
