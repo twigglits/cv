@@ -95,7 +95,7 @@
 
 <h2>HACKATHON PROJECTS</h2>
 <div><strong>AI Kernel Killswitch — LLM Safety &amp; Containment</strong></div>
-<div class="justify">github.com/twigglits/AI_kernel_killswitch</div>
+<div class="justify">https://github.com/twigglits/AI_kernel_killswitch</div>
 <ul class="justify" style="margin-top:4px;">
   <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated <code>AES-256-GCM(KILL)</code> payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (in-worker vLLM weight scramble and LUKS crypto-shred)</li>
   <li>Designed replay-protected, key-off-disk detonation with an air-gapped golden master preserved for recovery and forensics</li>
@@ -120,5 +120,5 @@
 
 <h2>HOBBIES</h2>
 <div class="justify">
-  <strong>Exploring number theory</strong> — experimental work on the open <strong>Erdős–Straus conjecture</strong>, building four independent solution-counting engines (C, Rust, CUDA, Python) agreeing byte-for-byte to compute the largest per-prime dataset I am aware of (~278k hard-class primes up to 2×10⁹), confirming empirical lognormal laws via blind minima prediction, machine-verifying proof-attempt theorems, and extending the problem to the negative integers. github.com/twigglits/erdos-straus-conjecture--expansion
+  <strong>Exploring number theory</strong> — experimental work on the open <strong>Erdős–Straus conjecture</strong>, building four independent solution-counting engines (C, Rust, CUDA, Python) agreeing byte-for-byte to compute the largest per-prime dataset I can from my local machine (~278k hard-class primes up to 2×10⁹), confirming empirical lognormal laws via blind minima prediction, machine-verifying proof-attempt theorems, and extending the problem to the negative integers. https://github.com/twigglits/erdos-straus-conjecture--expansion
 </div>
