@@ -93,6 +93,17 @@
 
 <hr/>
 
+<h2>HACKATHON PROJECTS</h2>
+<div><strong>AI Kernel Killswitch — LLM Safety &amp; Containment</strong></div>
+<div class="justify">github.com/twigglits/AI_kernel_killswitch</div>
+<ul class="justify" style="margin-top:4px;">
+  <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated <code>AES-256-GCM(KILL)</code> payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (in-worker vLLM weight scramble and LUKS crypto-shred)</li>
+  <li>Designed replay-protected, key-off-disk detonation with an air-gapped golden master preserved for recovery and forensics</li>
+  <li>Ran a companion research track: LoRA-trained sleeper-agent trojan on TinyLlama-1.1B (perfect recall, zero leakage), a linear activation detector at 1.0 held-out accuracy, and an inference-time monitor — delivering a first-class negative result that single-direction ablation does not remove baked-in backdoors</li>
+</ul>
+
+<hr/>
+
 <h2>CERTIFICATIONS</h2>
 <div><strong>Python for Data Science and Machine Learning Bootcamp — 2025</strong></div>
 <div class="justify">https://www.udemy.com/certificate/UC-1fcc8e47-b153-45b2-b43b-7c117e1fd2db/</div>
@@ -104,3 +115,10 @@
 <div class="justify">https://www.udemy.com/certificate/UC-acdec4cd-ae82-4216-9cd3-212d2e0a63ee/</div>
 <div><strong>Calculus 1 — 2019</strong></div>
 <div class="justify">https://www.udemy.com/certificate/UC-37U23IL1/</div>
+
+<hr/>
+
+<h2>HOBBIES</h2>
+<div class="justify">
+  <strong>Exploring number theory</strong> — experimental work on the open <strong>Erdős–Straus conjecture</strong>, building four independent solution-counting engines (C, Rust, CUDA, Python) agreeing byte-for-byte to compute the largest per-prime dataset I am aware of (~278k hard-class primes up to 2×10⁹), confirming empirical lognormal laws via blind minima prediction, machine-verifying proof-attempt theorems, and extending the problem to the negative integers. github.com/twigglits/erdos-straus-conjecture--expansion
+</div>
