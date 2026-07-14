@@ -97,7 +97,7 @@
 <div><strong>AI Kernel Killswitch — LLM Safety &amp; Containment</strong></div>
 <div class="justify">https://github.com/twigglits/AI_kernel_killswitch</div>
 <ul class="justify" style="margin-top:4px;">
-  <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated <code>AES-256-GCM(KILL)</code> payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (LUKS crypto-shred)</li>
+  <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated AES-256-GCM(KILL) payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (LUKS crypto-shred)</li>
 </ul>
 
 <hr/>
