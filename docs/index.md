@@ -97,9 +97,7 @@
 <div><strong>AI Kernel Killswitch — LLM Safety &amp; Containment</strong></div>
 <div class="justify">https://github.com/twigglits/AI_kernel_killswitch</div>
 <ul class="justify" style="margin-top:4px;">
-  <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated <code>AES-256-GCM(KILL)</code> payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (in-worker vLLM weight scramble and LUKS crypto-shred)</li>
-  <li>Designed replay-protected, key-off-disk detonation with an air-gapped golden master preserved for recovery and forensics</li>
-  <li>Ran a companion research track: LoRA-trained sleeper-agent trojan on TinyLlama-1.1B (perfect recall, zero leakage), a linear activation detector at 1.0 held-out accuracy, and an inference-time monitor — delivering a first-class negative result that single-direction ablation does not remove baked-in backdoors</li>
+  <li>Built a last-resort containment mechanism for self-hosted LLMs: a harness-gated killswitch that verifies an authenticated <code>AES-256-GCM(KILL)</code> payload embedded in a prompt, sets a fail-closed fuse, and fires two independent, irreversible erasure paths (LUKS crypto-shred)</li>
 </ul>
 
 <hr/>
