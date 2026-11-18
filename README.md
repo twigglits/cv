@@ -11,8 +11,6 @@
   <br>I am extremely passionate and competent in building AI agents and workflows that can automate complex tasks and improve productivity. I have experience building and deploying AI agents using Claude Code, OpenCode, MCP tool setup, A2A (Agent to Agent), ACP, Skills, agent orchestration, testing frameworks, playwright, evals, Claude Code agent orchestration pipelines, and Generative AI workflows and orchestration. I am always looking for new ways to improve my skills and stay up-to-date with the latest technologies.<br>
   
   <br> Strong hands-on MLOps experience: designing GitLab CI/CD pipelines with clear build/test/deploy/release stages and integrated vulnerability scanning (dependencies, containers, and IaC), implemented automated retraining and deployment pipelines, and monitoring on Grafana/cloud monitoring for data drift with structured logging, alerting, and model explainability/score attribution using SHAP (Shapley values). Experienced in deploying and scaling Kubernetes clusters, and selecting pragmatic serving patterns on GCP (Cloud Run/Vertex AI/Pub Sub) and AWS (Bedrock/Sagemaker) depending on latency, cost, and operational overhead.
-  <br>
-  <br> In other words, I get shit done!
  </div>
 <hr/>
 
