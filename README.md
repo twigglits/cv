@@ -101,6 +101,10 @@
 <hr/>
 
 <h2>CERTIFICATIONS</h2>
+<div><strong>AWS Certified AI Practitioner — Amazon Web Services — 2026</strong></div>
+<div class="justify">Validation no. d5f69c7e1a5346f892c9fca47c120c09 (verify at aws.amazon.com/verification) · valid until Sep 2029</div>
+<div><strong>AGI Strategy — BlueDot Impact — 2026</strong></div>
+<div class="justify">https://bluedot.org/courses/agi-strategy</div>
 <div><strong>Python for Data Science and Machine Learning Bootcamp — 2025</strong></div>
 <div class="justify">https://www.udemy.com/certificate/UC-1fcc8e47-b153-45b2-b43b-7c117e1fd2db/</div>
 <div><strong>Time Series Analysis, Forecasting and Machine Learning — 2025</strong></div>
